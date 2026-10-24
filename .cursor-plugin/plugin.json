@@ -1,0 +1,17 @@
+{
+  "name": "broom",
+  "displayName": "Broom",
+  "version": "1.0.0",
+  "description": "Keeps your Gmail inboxes clear of promos and spam. Trashes junk on a schedule (trash only, never permanent delete, never unsubscribes without asking), protects bank, security, order and personal mail, and reports every trashed email plus every coupon code found.",
+  "author": {
+    "name": "onlymehdi"
+  },
+  "homepage": "https://github.com/onlymehdi/broom",
+  "repository": "https://github.com/onlymehdi/broom",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["gmail", "email", "inbox", "spam", "cleanup"],
+  "category": "productivity",
+  "tags": ["gmail", "email", "inbox"],
+  "skills": "./skills/"
+}
